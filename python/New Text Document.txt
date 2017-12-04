@@ -1,0 +1,5 @@
+sequential
+2gb - 200sec
+600mb - 30sec
+6gb - 500sec
+others 20sec 
